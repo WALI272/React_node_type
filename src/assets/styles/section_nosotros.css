@@ -1,0 +1,36 @@
+#section_nosotros {
+    padding: 5%;
+    background-color: aquamarine;
+    color: black;
+    text-shadow: 1px 1px 1px grey;
+    font-family: roboto_3;
+}
+em {
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+#bg_section_us {
+    background-color: rgb(50, 116, 116);
+}
+
+.img_container {
+    border: 2px solid black;
+    border-radius: 20px;
+    background:  rgb(50, 116, 116);
+}
+.img_container:hover {
+    background: greenyellow;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
+
+#section_title {
+    width: 100%;
+    margin: 0px;
+
+}

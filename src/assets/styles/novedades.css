@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(50, 116, 116);
+}
+#new_header {
+    margin: 10px;
+
+}
+
+#novedades_section {
+    text-align: center;
+    background: aquamarine;
+    font-family: roboto_2;
+    color: black;
+    text-shadow: 2px 2px 2px grey;
+}
+
+
+
+.new {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.new h2 {
+    background: aquamarine;
+    border-radius: 20px;
+}
+.new a{
+    text-decoration: none;
+    color: white;
+}
+
+.new a h4 {
+    background: grey;
+    border-radius: 20px;
+
+}
+.new a h4:hover {
+    background: -webkit-linear-gradient(magenta, aquamarine);
+    border: 2px solid black;
+    border-radius: 20px;
+}
